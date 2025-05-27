@@ -77,7 +77,6 @@ docker run -p 8000:8000 weather-app
 ## API Endpoints
 
 - `GET /api/weather/{city}` - Получить прогноз погоды для города
-- `GET /api/history` - Получить статистику поиска
 
 ## Запуск тестов
 
